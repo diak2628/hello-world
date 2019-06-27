@@ -1,2 +1,2 @@
 # hello-world
-for demo
+Hello, I am just starting out with coding 
